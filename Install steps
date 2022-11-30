@@ -1,0 +1,4 @@
+1. We need to install jenkins through jenkins documentation.
+2. We need to login to Jenkins and install plugins like pipleline Maven Integration, Pipleline Utilty steps,docker,
+3. Go to Create job and select pipleline as code and write the code
+4. once everything is done click build now
